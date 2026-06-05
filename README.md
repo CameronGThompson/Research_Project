@@ -8,7 +8,7 @@ Currently, this repository contains the following scripts:
   * `longest_isoform.py`
   * `run_longest_isoform.sh`
   * `cdhit_dedup.sh`
-  * `run_orthofinder`
+  * `run_orthofinder.sh`
 
 Below, I will go into more detail on each of these scripts. Scripts are listed in the order in which they should be run.
 
