@@ -166,7 +166,7 @@ Longest_Isoforms/
   * Bash
   * Python 3
   * Biopython
-  * `longest_isoform.p`
+  * `longest_isoform.py`
 
 ## cdhit_dedup.sh
 
