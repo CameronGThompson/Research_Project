@@ -81,5 +81,5 @@ annotation outputs described in [`docs/workflow.md`](docs/workflow.md).
 - Candidate supplement: `data/supplementary/Table_S2_candidate_orthogroups.xlsx`
 - Enrichment supplement: `data/supplementary/Table_S3_complete_functional_enrichment.xlsx`
 - Additionally, the FASTA file containing the 36 candidate symbiosis gene sequences is also included in this repository.
-- This contains the protein identifier, species name, predicted protein function, and protein sequence for each gene.
+- This contains the protein identifier, species name, proposed symbiosis process, and protein sequence for each gene.
 
