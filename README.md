@@ -81,10 +81,3 @@ annotation outputs described in [`docs/workflow.md`](docs/workflow.md).
 - Candidate supplement: `data/supplementary/Table_S2_candidate_orthogroups.xlsx`
 - Enrichment supplement: `data/supplementary/Table_S3_complete_functional_enrichment.xlsx`
 
-## Reuse and attribution
-
-The original study author and institutional details should be added before
-public release. No open-source licence has been selected in this package; add
-the licence required by the project or institution before publishing the
-repository.
-
